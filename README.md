@@ -55,10 +55,10 @@ Steps are to be completed under the div with `id="exercise5"`
      - **one main element**
      - **three section elements**
      - **one article element**
-     - **one header element**
-     - **two nav element**
-     - **two unordered list element**
-     - **five list item elements**
-     - **five anchor elements**
+     - **one header element**1
+     - **two nav element**1
+     - **two unordered list element**1
+     - **five list item elements**3
+     - **five anchor elements**done
      - **one footer element**
    - To be completed, you should only have **one division elements** and **zero span elements** (not including the div with `id="exercise5"`)
