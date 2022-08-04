@@ -54,7 +54,7 @@ Steps are to be completed under the div with `id="exercise5"`
    - You will need to use
      - **one main element**1
      - **three section elements**
-     - **one article element**
+     - **one article element**1
      - **one header element**1
      - **two nav element**1
      - **two unordered list element**1
